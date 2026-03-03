@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Jahnavi 👋
+
+## 💬 Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1260562525817409608?theme=dark&showDisplayName=true&idleMessage=Offline)](https://discord.com/users/1260562525817409608)
 
 <!--
 **Jahnavi-Thondavan/Jahnavi-Thondavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
