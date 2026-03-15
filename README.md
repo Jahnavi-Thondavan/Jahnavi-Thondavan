@@ -1,4 +1,4 @@
-# Thondavan Jahnavi
+# Jahnavi Thondavan
 
 ### Currently
 
